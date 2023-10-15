@@ -1,0 +1,12 @@
+Các bạn vào trang https://www.kaggle.com/datasets/ chọn cho mình một bọ dữ liệu sau đó áp dụng giải thuật học máy (Hồi quy hoặc phân lớp) để làm đồ án
+
+Bố cục các chương trong Đồ án
+
+Mở đầu
+Chương 1: Cơ sở lý thuyết
+Chương 2: Phân tích yêu cầu bài toán
+Chương 3: Xây dựng mô hình (hoặc Phân tích thiết kế mô hình)
+Chương 4: Thực nghiệm mô hình
+Chương 5: Kết luận và hướng nghiên cứu
+
+Các bạn có thể dùng Wekam hoặc SPSS, ... để so sánh với kết quả của mình
